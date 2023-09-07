@@ -1,3 +1,6 @@
+## 1.0.3+2
+
+- Config github actions
 ## 1.0.3
 
 - Config github actions

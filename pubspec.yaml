@@ -1,6 +1,6 @@
 name: dart_vn2000
 description: VN2000 converter for dart
-version: 1.0.3
+version: 1.0.3+2
 homepage: https://github.com/ankiimation/dart_vn2000
 
 environment:
