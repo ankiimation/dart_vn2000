@@ -28,8 +28,8 @@ class DartVN2000Converter {
     required VN2000Province province,
   }) {
     final converted = _convert(
-      x: dx,
-      y: dy,
+      x: dy,
+      y: dx,
       h: h,
       proj4Src: proj4.Projection.parse(province.value),
       proj4Dest: proj4.Projection.WGS84,
